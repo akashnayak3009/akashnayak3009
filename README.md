@@ -1,3 +1,4 @@
+![logo](https://github.com/akashnayak3009/akashnayak3009/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm AKASH KUMAR NAYAK</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/GYny.gif">

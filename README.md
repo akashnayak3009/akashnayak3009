@@ -3,9 +3,9 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/akashnayak3009/akashnayak3009/blob/main/logos.gif">
 
-- 🌱 I’m currently learning **JDBC,SERVLET,JSP,J2EE**
+- 🌱 I’m currently learning **React Native and Next.js**
 
-- 💬 Ask me about **React and Angular**
+- 💬 Ask me about **MERN STACK**
 
 - 📫 How to reach me **akashnayak3009@outlook.com**
 
